@@ -122,7 +122,7 @@
 
 # 💡 Astuce :
 
-Je vais faire tout pour faire au moins 5 exercices par jour ! Que Dieu m'aide !
+Je vais faire tout mon possible pour pouvoir faire au moins 5 exercices par jour ! Que Dieu m'aide !
 
 Puisque certains exercices vont me demander d’utiliser des libs (requests, bs4, pandas, etc.), donc celà m’obligera à apprendre en pratiquant.
 
