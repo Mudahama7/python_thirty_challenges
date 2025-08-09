@@ -1,4 +1,4 @@
-# 🔥 30 Exercices Python – Niveau Challenge
+# 🔥 30 Exercices Python
 
 ## Niveau 1 – Réchauffement (bases & logique)
 
